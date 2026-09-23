@@ -1,6 +1,3 @@
-# HR-Analytics_Dashboard
-
-Absolutely. Based on the **HR Analytics Dashboard** you shared, here is a GitHub-ready README tailored to your actual project. I’m assuming the project uses **Power BI with an Excel/CSV HR dataset** and does not require Python or a database.
 
 # 📊 HR Analytics Dashboard
 
